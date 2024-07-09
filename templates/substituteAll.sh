@@ -1,0 +1,2 @@
+#!@runtimeShell@
+echo "@message@"
